@@ -4,7 +4,7 @@
 ---
 
 ### About Me
-I’m a second-year Computer Science and Business student at the University of Western Ontario, passionate about building innovative mobile applications. Currently, I’m diving deep into **React Native** and **SwiftUI**, aiming to create impactful solutions that resonate with users.
+I’m a Computer Science and Business student at the University of Western Ontario, passionate about building innovative mobile applications. Currently, I’m diving deep into **React Native** and **SwiftUI**, aiming to create impactful solutions that resonate with users.
 
 ---
 
