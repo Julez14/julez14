@@ -9,4 +9,4 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1AD7hWtgMLr3nqo-v254Lr4ls6Ed5xCt4/view?usp=sharing](https://drive.google.com/file/d/1AD7hWtgMLr3nqo-v254Lr4ls6Ed5xCt4/view?usp=sharing)
 
-<h3 align="left">Connect with me on <a href="https://linkedin.com/in/julian-laxman" target="blank"></a></h3>
+<h3 align="left">Connect with me on <a href="https://linkedin.com/in/julian-laxman" target="blank">LinkedIn</a></h3>
