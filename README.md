@@ -1,12 +1,55 @@
-<h1 align="center">Hi 👋, I'm Julian</h1>
-<h3 align="center">I am a software engineer studying Computer Science and Business at the University of Western Ontario.</h3>
+<h1 align="center">Hi 👋, I'm Julian Laxman</h1>
+<h3 align="center">Software Engineer | Mobile Development Enthusiast | Computer Science & Business Student</h3>
 
-- 🔭 I’m currently working on [Study Group Finder Mobile App (React Native)](PRIVATE)
+---
 
-- 🔭 I’m currently working on [Geographer Notebook Mobile App (SwiftUI)](PRIVATE)
+### About Me
+I’m a second-year Computer Science and Business student at the University of Western Ontario, passionate about building innovative mobile applications. My work blends creativity and technical expertise to solve real-world problems, with a focus on user experience and functionality. Currently, I’m diving deep into **React Native** and **SwiftUI**, aiming to create impactful solutions that resonate with users.
 
-- 📫 How to reach me **julian.laxman@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AD7hWtgMLr3nqo-v254Lr4ls6Ed5xCt4/view?usp=sharing](https://drive.google.com/file/d/1AD7hWtgMLr3nqo-v254Lr4ls6Ed5xCt4/view?usp=sharing)
+### 👨‍💻 What I'm Working On
+- 🔭 **[Study Group Finder Mobile App (React Native)](PRIVATE)**  
+  A cross-platform app enabling students to find study groups for their courses, designed with React Native and Expo.  
+  *(Frontend Project Lead at Western CSUS)*
 
-<h3 align="left">Connect with me on <a href="https://linkedin.com/in/julian-laxman" target="blank">LinkedIn</a></h3>
+- 🔭 **[Geographer Notebook Mobile App (SwiftUI)](PRIVATE)**  
+  A SwiftUI app that helps geographers record and organize data during expeditions, refactored from Objective-C for modern functionality.  
+  *(Collaborating with a geography professor at Western University)*
+
+---
+
+### 📫 How to Reach Me
+- Email: [julian.laxman@gmail.com](mailto:julian.laxman@gmail.com)
+- LinkedIn: [linkedin.com/in/julian-laxman](https://linkedin.com/in/julian-laxman)
+- GitHub: [github.com/Julez14](https://github.com/Julez14)
+- Devpost: [devpost.com/juelzlax](https://devpost.com/juelzlax)
+
+---
+
+### 📄 Know About My Experiences
+[Check out my resume](https://drive.google.com/file/d/1AD7hWtgMLr3nqo-v254Lr4ls6Ed5xCt4/view?usp=sharing)
+
+---
+
+### 🛠️ Skills & Tools
+**Languages**: JavaScript, Swift, Java, C, Python, Assembly, HTML, CSS  
+**Frameworks & Tools**: React, React Native, Expo, SwiftUI, Convex, OpenAI APIs, Git  
+
+---
+
+### 🌟 Featured Projects
+- **IngredientAI**  
+  A React Native app powered by OpenAI GPT-4, analyzing product ingredient lists for better consumer insights.  
+  *(Showcased at Hack the North 2024)*  
+
+- **I Wear It Better**  
+  A peer-to-peer selling app inspired by Tinder mechanics to gamify sustainable fashion practices.  
+  *(Category winner at uOttahack 6)*  
+
+- **Cryptocurrency Tracker**  
+  A real-time cryptocurrency tracking app using the CoinLore API, focusing on sleek design and functionality.  
+
+---
+
+Feel free to connect and collaborate with me as I continue to explore the exciting world of software development and mobile innovation!
