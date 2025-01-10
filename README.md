@@ -11,5 +11,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/julianlaxman" target="blank">LinkedIn</a>
+<a href="https://linkedin.com/in/julian-laxman" target="blank">LinkedIn</a>
 </p>
