@@ -10,11 +10,11 @@ I’m a Computer Science and Business student at the University of Western Ontar
 
 ### 🛠️ What I'm Working On
 - 📘 **Study Group Finder Mobile App (React Native)**  
-  A cross-platform app enabling students to find study groups for their courses, designed with React Native and Expo.  
+  A cross-platform mobile app enabling students to find study groups for their courses, designed with React Native and Expo.  
   *(Frontend Project Lead at Western University's Computer Science Undergraduate Society)*
 
 - 🌍 **Geographer Notebook Mobile App (SwiftUI)**  
-  A SwiftUI app that helps geographers record and organize data during expeditions, refactored from Objective-C for modern functionality.  
+  An iOS app that helps geographers record and organize data during expeditions, refactored from Objective-C for modern functionality.  
   *(Collaborating with a geography professor at Western University)*
 
 ---
