@@ -4,16 +4,16 @@
 ---
 
 ### About Me
-I’m a second-year Computer Science and Business student at the University of Western Ontario, passionate about building innovative mobile applications. My work blends creativity and technical expertise to solve real-world problems, with a focus on user experience and functionality. Currently, I’m diving deep into **React Native** and **SwiftUI**, aiming to create impactful solutions that resonate with users.
+I’m a second-year Computer Science and Business student at the University of Western Ontario, passionate about building innovative mobile applications. Currently, I’m diving deep into **React Native** and **SwiftUI**, aiming to create impactful solutions that resonate with users.
 
 ---
 
-### 👨‍💻 What I'm Working On
-- 🔭 **[Study Group Finder Mobile App (React Native)](PRIVATE)**  
+### 🛠️ What I'm Working On
+- 📘 **Study Group Finder Mobile App (React Native)**  
   A cross-platform app enabling students to find study groups for their courses, designed with React Native and Expo.  
   *(Frontend Project Lead at Western CSUS)*
 
-- 🔭 **[Geographer Notebook Mobile App (SwiftUI)](PRIVATE)**  
+- 🌍 **Geographer Notebook Mobile App (SwiftUI)**  
   A SwiftUI app that helps geographers record and organize data during expeditions, refactored from Objective-C for modern functionality.  
   *(Collaborating with a geography professor at Western University)*
 
