@@ -8,7 +8,7 @@ I’m a Computer Science and Business student at the University of Western Ontar
 
 ---
 
-### 🛠️ What I'm Working On
+### 🛠️ What I'm Working On (Currently Private Repos)
 - 📘 **Study Group Finder Mobile App (React Native)**  
   A cross-platform mobile app enabling students to find study groups for their courses, designed with React Native and Expo.  
   *(Frontend Project Lead at Western University's Computer Science Undergraduate Society)*
