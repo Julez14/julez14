@@ -34,7 +34,7 @@ I’m a Computer Science and Business student at the University of Western Ontar
 
 ### 🛠️ Skills & Tools
 **Languages**: JavaScript, Swift, Java, C, Python, Assembly, HTML, CSS  
-**Frameworks & Tools**: React, React Native, Expo, SwiftUI, Convex, OpenAI APIs, Git  
+**Frameworks & Tools**: React, React Native, Expo, Node.js, Express.js, SwiftUI, Convex, OpenAI APIs, Git  
 
 ---
 
