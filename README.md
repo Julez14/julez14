@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Julian Laxman</h1>
 <h3 align="center">Software Engineer | Mobile Development Enthusiast | Computer Science & Business Student</h3>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### About Me
 I’m a Computer Science and Business student at the University of Western Ontario, passionate about building innovative mobile applications. Currently, I’m diving deep into **React Native** and **SwiftUI**, aiming to create impactful solutions that resonate with users.
