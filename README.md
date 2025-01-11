@@ -27,7 +27,7 @@ I’m a Computer Science and Business student at the University of Western Ontar
 
 ---
 
-### 📄 Know About My Experiences
+### 📄 My Experience
 [Check out my resume](https://drive.google.com/file/d/18LqpC51uylHfd1RjA27QdwCffCGrlKrU/view?usp=sharing)
 
 ---
