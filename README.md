@@ -28,7 +28,7 @@ I’m a Computer Science and Business student at the University of Western Ontar
 ---
 
 ### 📄 Know About My Experiences
-[Check out my resume](https://drive.google.com/file/d/1AD7hWtgMLr3nqo-v254Lr4ls6Ed5xCt4/view?usp=sharing)
+[Check out my resume](https://drive.google.com/file/d/18LqpC51uylHfd1RjA27QdwCffCGrlKrU/view?usp=sharing)
 
 ---
 
@@ -52,4 +52,4 @@ I’m a Computer Science and Business student at the University of Western Ontar
 
 ---
 
-Feel free to connect and collaborate with me as I continue to explore the exciting world of software development and mobile innovation!
+Feel free to connect and collaborate with me!
