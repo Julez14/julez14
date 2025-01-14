@@ -40,15 +40,16 @@ I’m a Computer Science and Business student at the University of Western Ontar
 
 ### 🌟 Featured Projects
 - **IngredientAI**  
-  A React Native app powered by OpenAI GPT-4, analyzing product ingredient lists for better consumer insights.  
+  A React Native mobile app powered by OpenAI GPT-4, analyzing product ingredient lists for better consumer insights.  
   *(Showcased at Hack the North 2024)*  
 
 - **I Wear It Better**  
-  A peer-to-peer selling app inspired by Tinder mechanics to gamify sustainable fashion practices.  
+  A peer-to-peer selling React Native app inspired by Tinder mechanics to gamify sustainable fashion practices.  
   *(Category winner at uOttahack 6)*  
 
-- **Cryptocurrency Tracker**  
-  A real-time cryptocurrency tracking app using the CoinLore API, focusing on sleek design and functionality.  
+- **Study Crawl**  
+  A Next.js and MongoDB web app that makes use of Mapbox to help students find phyiscal study groups on campus.
+  *(Showcased at DeltaHacks 2024)*   
 
 ---
 
