@@ -14,7 +14,7 @@ I’m a Computer Science and Business student at the University of Western Ontar
 
 - 🌍 **AI Journaling Mobile App (React Native)**  
   A cross-platform app that has all the functionality of a typical journaling app with additional AI-driven features including weekly journal insights, prompt suggestions, and journal tags.  
-  *(Contractor for LaunchPath)*
+  *(Contractor for LaunchPath Inc.)*
 
 ---
 
