@@ -32,7 +32,7 @@ I’m a Computer Science and Business student at the University of Western Ontar
 ---
 
 ### 🛠️ Skills & Tools
-**Languages**: TypeScript, Swift, Java, C, Python, ARM Assembly, HTML, CSS
+**Languages**: TypeScript, Swift, Java, C, Python, ARM Assembly, HTML, CSS  
 **Frameworks & Tools**: React, React Native, Expo, Node.js, Express.js, SwiftUI, Next.js
 
 ---
