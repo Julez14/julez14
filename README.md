@@ -9,10 +9,10 @@ I’m a Computer Science and Business student at the University of Western Ontar
 ---
 
 ### 🛠️ What I'm Working On (Private Repos)
-- 📘 **Ingredient Scanner Mobile App (SwiftUI)**  
-  An iOS app designed to help users decode skincare and haircare product ingredient lists. Currently, pending App Store Review under the name "IngredientGPT."
+- 📘 **IngredientGPT (SwiftUI, Cloudflare, OpenAI, PostHog, Superwall)**  
+  An iOS app designed to help users decode skincare product ingredient lists. Currently live on the app store.
 
-- 🌍 **AI Journaling Mobile App (React Native)**  
+- 🌍 **Environmental Site Assessment Report Generator (React, Vite, Supabase, Node.js, Cohere, Docker)**  
   A cross-platform app that has all the functionality of a typical journaling app with additional AI-driven features including weekly journal insights, prompt suggestions, and journal tags.  
   *(Contractor for LaunchPath Inc.)*
 
@@ -32,8 +32,8 @@ I’m a Computer Science and Business student at the University of Western Ontar
 ---
 
 ### 🛠️ Skills & Tools
-**Languages**: TypeScript, Swift, Java, C, Python, ARM Assembly, HTML, CSS  
-**Frameworks & Tools**: React, React Native, Expo, Node.js, Express.js, SwiftUI, Next.js
+**Languages**: TypeScript, Swift, Java, C, Python, ARM Assembly, HTML, CSS, SQL
+**Frameworks & Tools**: React, React Native, Expo, Node.js, Express.js, SwiftUI, Next.js, Docker, PostgreSQL
 
 ---
 
@@ -46,9 +46,9 @@ I’m a Computer Science and Business student at the University of Western Ontar
   A peer-to-peer selling React Native app inspired by Tinder mechanics to gamify sustainable fashion practices.  
   *([Category winner at uOttahack 6](https://devpost.com/software/fashion-swipe))*  
 
-- **Study Crawl**  
-  A Next.js and MongoDB web app that makes use of Mapbox to help students find phyiscal study groups on campus.
-  *([Showcased at DeltaHacks 2024](https://devpost.com/software/study-crawl))*   
+- **Gaslytics**  
+  A Next.js and PostgreSQL web app that makes use of the TwelveLabs API to analyze video conversations for signs of emotional manipulation.
+  *([Showcased at Hack The 6ix 2025](https://devpost.com/software/gaslytics))*   
 
 ---
 
