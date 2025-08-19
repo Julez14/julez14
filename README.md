@@ -32,8 +32,8 @@ I’m a Computer Science student at the University of Western Ontario, passionat
 ---
 
 ### 🛠️ Skills & Tools
-**Languages**: TypeScript, Swift, Java, C, Python, ARM Assembly, HTML, CSS, SQL
-**Frameworks & Tools**: React, React Native, Expo, Node.js, Express.js, SwiftUI, Next.js, Docker, PostgreSQL
+**Languages**: TypeScript, Swift, Java, C, Python, ARM Assembly, HTML, CSS, SQL  
+**Frameworks & Tools**: React, React Native, Expo, Node.js, SwiftUI, Next.js, Django, Docker, PostgreSQL, Supabase, Heroku, Render, Vercel, Railway
 
 ---
 
