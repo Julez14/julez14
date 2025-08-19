@@ -13,7 +13,7 @@ I’m a Computer Science student at the University of Western Ontario, passionat
   An iOS app designed to help users decode skincare product ingredient lists. Currently live on the app store.
 
 - 🌍 **Environmental Site Assessment Report Generator (React, Vite, Supabase, Node.js, Cohere, Docker)**  
-  A web app that simplifies the management and generation of ESA reports with the help of AI.
+  A web app that simplifies the management and generation of ESA reports with the help of AI.  
   *(Contractor for LaunchPath Inc.)*
 
 ---
