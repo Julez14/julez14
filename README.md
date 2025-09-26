@@ -1,10 +1,10 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Julian Laxman</h1>
-<h3 align="center">Software Engineer | Mobile Development Enthusiast | Computer Science Student</h3>
+<h3 align="center">Software Engineer | Mobile Development Specialist | Honours Computer Science Student</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### About Me
-I’m a Computer Science student at the University of Western Ontario, passionate about building innovative mobile applications. Currently, I’m diving deep into **React Native** and **SwiftUI**, aiming to create impactful mobile app solutions that resonate with users.
+I’m a Computer Science student at the University of Western Ontario, passionate about building innovative mobile applications. Currently, I’m diving deep into **SwiftUI**, aiming to create impactful mobile app solutions that resonate with users.
 
 ---
 
@@ -12,9 +12,9 @@ I’m a Computer Science student at the University of Western Ontario, passionat
 - 📘 **IngredientGPT (SwiftUI, Cloudflare, OpenAI, PostHog, Superwall)**  
   An iOS app designed to help users decode skincare product ingredient lists. Currently live on the app store.
 
-- 🌍 **Environmental Site Assessment Report Generator (React, Vite, Supabase, Node.js, Cohere, Docker)**  
-  A web app that simplifies the management and generation of ESA reports with the help of AI.  
-  *(Contractor for LaunchPath Inc.)*
+- 🌍 **Beat2257 (Next.js, Supabase, Fastify)**  
+  A web app that solves business accounting cases.
+  *([Check it out](https://www.beat2257.com))*
 
 ---
 
