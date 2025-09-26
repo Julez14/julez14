@@ -13,7 +13,7 @@ I’m a Computer Science student at the University of Western Ontario, passionat
   An iOS app designed to help users decode skincare product ingredient lists. Currently live on the app store.
 
 - 🌍 **Beat2257 (Next.js, Supabase, Fastify)**  
-  A web app that solves business accounting cases.
+  A web app that solves business accounting cases.  
   *([Check it out](https://www.beat2257.com))*
 
 ---
@@ -47,7 +47,7 @@ I’m a Computer Science student at the University of Western Ontario, passionat
   *([Category winner at uOttahack 6](https://devpost.com/software/fashion-swipe))*  
 
 - **Gaslytics**  
-  A Next.js and PostgreSQL web app that makes use of the TwelveLabs API to analyze video conversations for signs of emotional manipulation.
+  A Next.js and PostgreSQL web app that makes use of the TwelveLabs API to analyze video conversations for signs of emotional manipulation.  
   *([Showcased at Hack The 6ix 2025](https://devpost.com/software/gaslytics))*   
 
 ---
