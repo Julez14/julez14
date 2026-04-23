@@ -8,26 +8,10 @@ I’m a Computer Science student at the University of Western Ontario, passionat
 
 ---
 
-### 🛠️ What I'm Working On (Private Repos)
-- 📘 **IngredientGPT (SwiftUI, Cloudflare, OpenAI, PostHog, Superwall)**  
-  An iOS app designed to help users decode skincare product ingredient lists. Currently live on the app store.
-
-- 🌍 **Beat2257 (Next.js, Supabase, Fastify)**  
-  A web app that solves business accounting cases.  
-  *([Check it out](https://www.beat2257.com))*
-
----
-
 ### 📫 How to Reach Me
-- Email: [julian.laxman@gmail.com](mailto:julian.laxman@gmail.com)
+- Email: [julian[dot]laxman@gmail[dot]com]
 - LinkedIn: [linkedin.com/in/julian-laxman](https://linkedin.com/in/julian-laxman)
-- GitHub: [github.com/Julez14](https://github.com/Julez14)
 - Devpost: [devpost.com/juelzlax](https://devpost.com/juelzlax)
-
----
-
-### 📄 My Experience
-[Check out my resume](https://drive.google.com/file/d/18LqpC51uylHfd1RjA27QdwCffCGrlKrU/view?usp=sharing)
 
 ---
 
@@ -38,9 +22,9 @@ I’m a Computer Science student at the University of Western Ontario, passionat
 ---
 
 ### 🌟 Featured Projects
-- **Pocket Transcribe**  
-  A simple Next.js app that utilizes DeepGram API to transcribe audio and allows users to download or share the transcription.
-  *([Check it out](https://pocket-transcribe.vercel.app))* 
+- **Déjà View**  
+  Automatically transform Pinterest pins into objects placed in your 3D space.
+  *([Showcased at UofT Hacks 2026](https://devpost.com/software/deja-view))* 
 
 - **I Wear It Better**  
   A peer-to-peer selling React Native app inspired by Tinder mechanics to gamify sustainable fashion practices.  
