@@ -23,7 +23,7 @@ I’m a Computer Science student at the University of Western Ontario, passionat
 
 ### 🌟 Featured Projects
 - **Déjà View**  
-  Automatically transform Pinterest pins into objects placed in your 3D space.
+  Automatically transform Pinterest pins into objects placed in your 3D space.  
   *([Showcased at UofT Hacks 2026](https://devpost.com/software/deja-view))* 
 
 - **I Wear It Better**  
